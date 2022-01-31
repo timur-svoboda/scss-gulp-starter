@@ -1,0 +1,11 @@
+{
+  "name": "scss-gulp-starter",
+  "version": "0.0.0",
+  "description": "Simple Gulp starter with SCSS support",
+  "type": "module",
+  "author": "Timur Svoboda",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
