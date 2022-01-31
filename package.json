@@ -6,6 +6,8 @@
   "author": "Timur Svoboda",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.0"
   }
 }
