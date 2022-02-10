@@ -2,4 +2,7 @@
 @import "./helpers/functions/functions.scss";
 @import "./helpers/mixins/mixins.scss";
 
+@import "../assets/libs/normalize.css/normalize.css";
+@import "../assets/libs/reset.css/reset.css";
+
 @import "./blocks/blocks.scss";
